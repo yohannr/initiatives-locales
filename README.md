@@ -2,6 +2,8 @@
 
 Se connecter aux Initiatives créatives, sociales et locales
 
+![](https://framapic.org/gaV4De9wzq3X/ovwbLyeoSGIT)
+
 ## Pourquoi cette démarche de listing de pages Facebook ?
 
 Et si Facebook permettait AUSSI de découvrir des initiatives locales ?
