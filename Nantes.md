@@ -132,6 +132,38 @@ https://www.facebook.com/nousetco
 
     L'économie du Partage pour et par tous sur la métropole nantaise
 
+https://www.facebook.com/Bout-%C3%A0-Bout-340198499655609/
+
+    Bout’ à bout’ est une association qui a pour but développer et animer une filière de réutilisation des bouteilles en Pays de la Loire, dans une optique de réduction des déchets, de préservation de ressources et de réduction des émissions de gaz à effet de serre.
+
+https://www.facebook.com/STATIONS.SERVICES
+
+    STATIONS SERVICES est une ressourcerie OUVERTE A TOUTES ET TOUS qui récupère des matières premières dans les entreprises locales (rebuts, chutes de prodution...) et les revend entre 1/3 et 1/5 du prix du marché.
+
+https://www.facebook.com/lescreactifsnantes/
+
+    Dans nos ateliers artistiques, nous mettons en place des outils de pédagogie positive (éducation émotionnelle, communication non-violente...) et nous veillons toujours à sensibiliser à la réutilisation durable des matières et matériaux.
+
+https://www.facebook.com/ENVIE.44
+
+    Envie 44 collecte les appareils en fin de vie pour les faire rénover par ses salariés en parcours d’insertion et les revend avec une garantie d’un an minimum. Envie 44 peut aussi livrer, louer et dépanner l’électroménager.
+
+https://www.facebook.com/OSER-forêt-vivante-1691920837752753
+
+    OSER forêt vivante s’adresse à des personnes en difficultés sociales et professionnelles afin de leur permettre d’élaborer un parcours d’insertion en adéquation avec leur projet personnel.
+
+https://www.facebook.com/restauretsens
+
+    Sensibiliser au gaspillage alimentaire et contribuer au bien manger, mieux consommer.
+
+https://www.facebook.com/ADDA-AujourDhui-restaurons-DemAin-606918832802539
+
+    A son échelle, l’ADDA -AujourD’hui restaurons DemAin- souhaite agir pour contribuer à développer des modes de vie respectueux de l'Homme et de la planète.
+
+https://www.facebook.com/bleublanczebre44
+
+    Notre objectif chez BBZ44 est de créer des passerelles en Loire-Atlantique entre citoyens et élus de terrain, par le biais d’initiatives citoyennes/bonnes pratiques ayant fait leurs preuves ici ou quelque part en France.
+
 ## Groupes publics
 
 https://www.facebook.com/groups/238571483162285
