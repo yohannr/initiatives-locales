@@ -200,3 +200,7 @@ https://www.facebook.com/pages/Id%C3%A9elles/462605400420221
 https://www.facebook.com/letempspourtoit/about/
 
     Le temps pour toiT développe depuis 2005 une action en faveur du développement de l'habitat intergénérationnel et solidaire, permettant à une personne (quel que soit son âge) en formation, étude ou mobilité professionnelle d'être hébergée chez une personne âgée qui organise son maintien à domicile ou souhaite tout simplement faciliter le projet d'un plus jeune.
+    
+https://www.facebook.com/lecarillonnantes
+
+    Le réseau "Le Carillon" permet d’améliorer les conditions de vie des personnes à la rue et de recréer du lien social avec leurs concitoyens.
