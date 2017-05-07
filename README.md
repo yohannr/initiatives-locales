@@ -29,4 +29,4 @@ Mots-clés : modes de vie collaboratifs, partage, solidarité, DIY, circuits cou
 
 ## Comment contribuer ?
 
-Pour vos remarques et contributions, il y a ce pad : https://semestriel.framapad.org/p/initiatives-locales
+Pour vos remarques et contributions, vous pouvez par exemple me retrouver sur Facebook : https://www.facebook.com/yreverdy
