@@ -26,10 +26,6 @@ https://www.facebook.com/ENVIE.44
 
     Envie 44 collecte les appareils en fin de vie pour les faire rénover par ses salariés en parcours d’insertion et les revend avec une garantie d’un an minimum. Envie 44 peut aussi livrer, louer et dépanner l’électroménager.
 
-https://www.facebook.com/ADDA-AujourDhui-restaurons-DemAin-606918832802539
-
-    A son échelle, l’ADDA -AujourD’hui restaurons DemAin- souhaite agir pour contribuer à développer des modes de vie respectueux de l'Homme et de la planète.
-
 https://www.facebook.com/POLn-158741274147273/
 
     POL’n est un espace de liberté et d’apprentissage nécessaire
@@ -43,10 +39,6 @@ https://www.facebook.com/DiscoSoupeNantes
 https://www.facebook.com/latricyclerie/
 
     La Tricyclerie propose de collecter les biodéchets en vélo-remorque pour les composter!
-
-https://www.facebook.com/madeinpasloin/
-
-    Made in Pas Loin : à Nantes, projet locavore, écologique et gourmand, de coopérative alimentaire entre producteurs locaux et consommateurs.
 
 https://www.facebook.com/rebonreseauglanagenantais/
 
@@ -101,14 +93,6 @@ https://www.facebook.com/atelierdesinitiatives/
 https://www.facebook.com/OpenOdyssey/
 
     Open Odyssey, "booster du territoire", connecte les porteurs de projets avec le monde de l'enseignement supérieur
-
-https://www.facebook.com/lescrealters/
-
-    Engagement citoyen pour la création d'alternatives
-
-https://www.facebook.com/lescreactifsnantes/
-
-    Dans nos ateliers artistiques, nous mettons en place des outils de pédagogie positive (éducation émotionnelle, communication non-violente...) et nous veillons toujours à sensibiliser à la réutilisation durable des matières et matériaux.
 
 https://www.facebook.com/compostri.fr
 
@@ -184,10 +168,6 @@ https://www.facebook.com/lemapnantes/
 https://www.facebook.com/nousetco
 
     L'économie du Partage pour et par tous sur la métropole nantaise
-
-https://www.facebook.com/bleublanczebre44
-
-    Notre objectif chez BBZ44 est de créer des passerelles en Loire-Atlantique entre citoyens et élus de terrain, par le biais d’initiatives citoyennes/bonnes pratiques ayant fait leurs preuves ici ou quelque part en France.
 
 https://www.facebook.com/momnantes
 
