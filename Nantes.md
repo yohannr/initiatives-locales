@@ -14,7 +14,7 @@ https://www.facebook.com/solilabnantes
 
     Le Solilab c'est un lieu de 9000m² sur l'île de Nantes, dédié à la promotion, la coopération et au développement de projets d'économie sociale et solidaire
 
-https://www.facebook.com/La-Ressourcerie-de-l%C3%AEle-195902373802640/
+https://www.facebook.com/laressourceriedelile/
 
     La Ressourcerie de l'île, anciennement ecorev, réemploi et réutilisation d'objets sur le territoire de Nantes Métropole
 
@@ -52,6 +52,10 @@ https://www.facebook.com/Nantes-Ville-Comestible-338814539647754/
 https://www.facebook.com/Scopeli/
 
     Participez à la création du premier supermarché coopératif et participatif de la région Nantaise !
+    
+https://www.facebook.com/Ilotopia/
+
+    Ilotopia c’est un voyage qui s'appuie sur la parole des habitants. Notre mission : imaginer avec vous les espaces publics du quartier République les ponts
 
 https://www.facebook.com/groups/238571483162285
 
@@ -76,7 +80,7 @@ https://www.facebook.com/terroirs44/
 
     Terroirs 44 soutient une vente directe riche de liens, portée par des dynamiques collectives et ancrée dans ses territoires sociaux et naturels.
 
-https://www.facebook.com/Bout-%C3%A0-Bout-340198499655609/
+https://www.facebook.com/boutaboutconsigne/
 
     Bout’ à bout’ est une association qui a pour but développer et animer une filière de réutilisation des bouteilles en Pays de la Loire, dans une optique de réduction des déchets, de préservation de ressources et de réduction des émissions de gaz à effet de serre.
 
@@ -140,10 +144,6 @@ https://www.facebook.com/ecossolies/
 
     Promouvoir et développer l'économie sociale et solidaire
 
-https://www.facebook.com/wedogood.co/
-
-    WE DO GOOD permet d'investir en royalties sur des projets à impact social et environnemental positif.
-
 https://www.facebook.com/ecopole.cpie/
 
     Association labellisée Centre Permanent d'Initiatives pour l'Environnement (CPIE) du Pays de Nantes depuis 2003
@@ -168,6 +168,10 @@ https://www.facebook.com/lemapnantes/
 https://www.facebook.com/nousetco
 
     L'économie du Partage pour et par tous sur la métropole nantaise
+    
+https://www.facebook.com/BioTFull/
+
+    Association pour le développement et la promotion de l'agriculture urbaine en région nantaise.
 
 https://www.facebook.com/momnantes
 
