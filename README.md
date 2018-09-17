@@ -2,8 +2,6 @@
 
 Se connecter aux Initiatives créatives, sociales et locales
 
-![](https://framapic.org/gaV4De9wzq3X/ovwbLyeoSGIT)
-
 ## Pourquoi cette démarche de listing de pages Facebook ?
 
 Et si Facebook permettait AUSSI de découvrir des initiatives locales ?
@@ -29,4 +27,4 @@ Mots-clés : modes de vie collaboratifs, partage, solidarité, DIY, circuits cou
 
 ## Comment contribuer ?
 
-Pour vos remarques et contributions, vous pouvez par exemple me retrouver sur Facebook : https://www.facebook.com/yreverdy
+Pour vos remarques et contributions, vous pouvez par exemple me contacter sur : http://www.yohannreverdy.com
