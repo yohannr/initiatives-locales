@@ -94,10 +94,6 @@ https://www.facebook.com/atelierdesinitiatives/
     
     Association engagée pour encourager l’accès à la culture et la prise d’initiatives des jeunes jusqu'à 32 ans.
 
-https://www.facebook.com/OpenOdyssey/
-
-    Open Odyssey, "booster du territoire", connecte les porteurs de projets avec le monde de l'enseignement supérieur
-
 https://www.facebook.com/compostri.fr
 
     Compostage partagé de proximité en milieu urbain, sensibilisation et animation, formation au compostage
@@ -105,18 +101,17 @@ https://www.facebook.com/compostri.fr
 
 ## Emploi
 
-https://www.facebook.com/ATAOnantes/
-
-    ATAO - Atelier Chantier d’Insertion - a pour mission l’accueil, l’accompagnement et la professionnalisation de publics en insertion.
-
 https://www.facebook.com/cojobnantes/
 
     COJOB valorise et dynamise la période de recherche d'emploi des jobeurs (chercheurs d'emploi >BAC+3 et <35 ans)
+    
+https://www.facebook.com/parrain.emploi/
 
-https://www.facebook.com/OSER-forêt-vivante-1691920837752753
+    Accompagner les chercheurs d'emploi de Loire-Atlantique via l'action de parrainage : mise en relation et échanges réguliers avec des professionnels de leur secteur.
+    
+https://www.facebook.com/faceloireatlantique/
 
-    OSER forêt vivante s’adresse à des personnes en difficultés sociales et professionnelles afin de leur permettre d’élaborer un parcours d’insertion en adéquation avec leur projet personnel.
-
+    FACE Loire Atlantique est un club d'entreprises affilié à la Fondation Agir Contre l'Exclusion - FACE. il met en oeuvre des actions de lutte contre l'exclusion et la discrimination. FACE Loire Atlantique est présent à Nantes, au sillon de Bretagne et à Saint Nazaire dans les locaux de l'AFPA.
 
 ## Divers
 
@@ -147,11 +142,6 @@ https://www.facebook.com/ecossolies/
 https://www.facebook.com/ecopole.cpie/
 
     Association labellisée Centre Permanent d'Initiatives pour l'Environnement (CPIE) du Pays de Nantes depuis 2003
-
-https://www.facebook.com/la.remise.nantes/
-
-    Reprendre la main sur nos dix doigts ! C'est l'objectif que nous partageons.
-    Et cela commence par mettre en commun des outils.
 
 https://www.facebook.com/JCENantesMetropoleSudLoire/
 
