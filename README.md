@@ -27,4 +27,4 @@ Mots-clés : modes de vie collaboratifs, partage, solidarité, DIY, circuits cou
 
 ## Comment contribuer ?
 
-Pour vos remarques et contributions, vous pouvez par exemple me contacter sur : http://www.yohannreverdy.com
+Pour vos remarques et contributions, vous pouvez par exemple me contacter sur : https://yohannr.github.io
