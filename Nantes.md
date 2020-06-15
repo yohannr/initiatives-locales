@@ -18,6 +18,10 @@ https://www.facebook.com/laressourceriedelile/
 
     La Ressourcerie de l'île, anciennement ecorev, réemploi et réutilisation d'objets sur le territoire de Nantes Métropole
 
+https://www.facebook.com/groups/1688035248184933/
+
+    Ce groupe est complémentaire à la Boutique physique située au 09 rue Jules Noël. Il est donc destiné aux habitant.e.s de Nantes Métropole, adhérent.e.s ou non
+
 https://www.facebook.com/STATIONS.SERVICES
 
     STATIONS SERVICES est une ressourcerie OUVERTE A TOUTES ET TOUS qui récupère des matières premières dans les entreprises locales (rebuts, chutes de prodution...) et les revend entre 1/3 et 1/5 du prix du marché.
@@ -155,7 +159,7 @@ https://www.facebook.com/lemapnantes/
 
     Le Map (Magazine des Autres Possibles), à Nantes et alentours : des articles fouillés et une belle Map illustrée à afficher !
 
-https://www.facebook.com/nousetco
+https://www.facebook.com/nousandco
 
     L'économie du Partage pour et par tous sur la métropole nantaise
     
