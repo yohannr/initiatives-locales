@@ -2,73 +2,35 @@
 
 ## Lieux physiques
 
-https://www.facebook.com/LaConciergerieLabodeQuartier
+https://www.facebook.com/asso.poln
 
-    La Conciergerie - Labo de quartier est un nouveau lieu de vie pour les nantais, et ce en plein cœur de l'Île de Nantes !
+    pol—n est un collectif de 13 associations culturelles et artistiques pluridisciplinaires.
 
-https://www.facebook.com/lanizanerie
+https://www.facebook.com/labodiva
 
-    La Nizanerie est une association qui encourage les initiatives citoyennes sur l'espace public dans le quartier des Ponts, pour tous et par tous.
+    Lieu de vie convivial et insolite sur l'Île de Nantes
 
-https://www.facebook.com/solilabnantes
+https://www.facebook.com/LeGrandBain.Nantes
 
-    Le Solilab c'est un lieu de 9000m² sur l'île de Nantes, dédié à la promotion, la coopération et au développement de projets d'économie sociale et solidaire
+    Rassembler des initiatives coopératives, créer un lieu de vie, de travail, de rencontres...
 
-https://www.facebook.com/laressourceriedelile/
+https://www.facebook.com/lacocottesolidairenantes
 
-    La Ressourcerie de l'île, anciennement ecorev, réemploi et réutilisation d'objets sur le territoire de Nantes Métropole
-
-https://www.facebook.com/groups/1688035248184933/
-
-    Ce groupe est complémentaire à la Boutique physique située au 09 rue Jules Noël. Il est donc destiné aux habitant.e.s de Nantes Métropole, adhérent.e.s ou non
-
-https://www.facebook.com/STATIONS.SERVICES
-
-    STATIONS SERVICES est une ressourcerie OUVERTE A TOUTES ET TOUS qui récupère des matières premières dans les entreprises locales (rebuts, chutes de prodution...) et les revend entre 1/3 et 1/5 du prix du marché.
-
-https://www.facebook.com/ENVIE.44
-
-    Envie 44 collecte les appareils en fin de vie pour les faire rénover par ses salariés en parcours d’insertion et les revend avec une garantie d’un an minimum. Envie 44 peut aussi livrer, louer et dépanner l’électroménager.
-
-https://www.facebook.com/POLn-158741274147273/
-
-    POL’n est un espace de liberté et d’apprentissage nécessaire
+    Une cantine de quartier participative pour se retrouver et partager un repas comme à la maison. Sur réservation.
 
 ## Alimentation
 
-https://www.facebook.com/DiscoSoupeNantes
-
-    Notre objectif : sensibiliser au gaspillage alimentaire en musique et dans la bonne humeur. Ensemble, on épluche fort contre le gaspillage.
-
-https://www.facebook.com/latricyclerie/
-
-    La Tricyclerie propose de collecter les biodéchets en vélo-remorque pour les composter!
-
-https://www.facebook.com/rebonreseauglanagenantais/
-
-    RE-BON ! Cent pour champs solidaires !
-    agit concrètement pour réduire le gaspillage alimentaire par le développement d'activités autour du glanage
-
-https://www.facebook.com/Nantes-Ville-Comestible-338814539647754/
+https://www.facebook.com/nantesvillecomestible
 
     Collectif pluridisciplinaire pour l'agriculture urbaine
 
 https://www.facebook.com/Scopeli/
 
     Participez à la création du premier supermarché coopératif et participatif de la région Nantaise !
-    
-https://www.facebook.com/Ilotopia/
-
-    Ilotopia c’est un voyage qui s'appuie sur la parole des habitants. Notre mission : imaginer avec vous les espaces publics du quartier République les ponts
 
 https://www.facebook.com/groups/238571483162285
 
     L'association DLC souhaite mettre en place un modèle permettant à tous ses adhérents de récupérer des invendus alimentaires et de les redistribuer via des lieux de stockage libre d'accès à tous ou des associations caritatives.
-
-https://www.facebook.com/restauretsens
-
-    Sensibiliser au gaspillage alimentaire et contribuer au bien manger, mieux consommer.
-
 
 ## Consommation
 
@@ -76,9 +38,9 @@ https://www.facebook.com/Collectifzerodechetnantes/
 
     Citoyens, associations et entrepreneurs de la métropole nantaise, nous nous mobilisons pour relever le défi d’un territoire "0 déchet, 100% ressources".
 
-https://www.facebook.com/UneMonnaiePourNantes
+https://www.facebook.com/MonekoMLC44
 
-    La Monnaie complémentaire nantaise : une nouvelle monnaie territoriale, pour les échanges entre entreprises et avec les citoyens.
+    monnaie locale du 44 portée par l'association MLC44
 
 https://www.facebook.com/terroirs44/
 
@@ -90,7 +52,11 @@ https://www.facebook.com/boutaboutconsigne/
 
 https://www.facebook.com/LeTransiStore
 
-    Projet de recyclerie à la Chapelle-sur-Erdre
+    Association ayant pour but de sensibiliser la population à la réduction des déchets.
+
+https://www.facebook.com/ENVIE.44
+
+    Envie 44 collecte les appareils en fin de vie pour les faire rénover par ses salariés en parcours d’insertion et les revend avec une garantie d’un an minimum. Envie 44 peut aussi livrer, louer et dépanner l’électroménager.
 
 ## Education
 
@@ -131,10 +97,6 @@ https://www.facebook.com/alternatibanantes/
 
     Un joyeux village des alternatives pour mettre en lumière les initiatives locales qui œuvrent pour une société plus écologique et plus humaine.
 
-https://www.facebook.com/handinantes
-
-    Créer une plate-forme collaborative permettant de centraliser et compléter les informations utiles aux Nantais ou aux visiteurs en situation de handicap.
-
 https://www.facebook.com/mcm.nantes/
 
     Collectif associatif de Solidarité Internationale et de Défense des Droits Humains qui rassemble des structures et des individuels en Loire-Atlantique
@@ -158,10 +120,6 @@ https://www.facebook.com/compostinsitu
 https://www.facebook.com/lemapnantes/
 
     Le Map (Magazine des Autres Possibles), à Nantes et alentours : des articles fouillés et une belle Map illustrée à afficher !
-
-https://www.facebook.com/nousandco
-
-    L'économie du Partage pour et par tous sur la métropole nantaise
     
 https://www.facebook.com/BioTFull/
 
@@ -171,14 +129,10 @@ https://www.facebook.com/momnantes
 
     Un service de garde artistique complet pour les enfants le soir après l'école, le mercredi et les vacances scolaires, à côté de chez vous !
 
-https://www.facebook.com/pages/Id%C3%A9elles/462605400420221
-
-    Les Idéelles sont un collectif de femmes actives, habitantes du quartier de Malakoff.
-
-https://www.facebook.com/letempspourtoit/about/
+https://www.facebook.com/letempspourtoit/
 
     Le temps pour toiT développe depuis 2005 une action en faveur du développement de l'habitat intergénérationnel et solidaire, permettant à une personne (quel que soit son âge) en formation, étude ou mobilité professionnelle d'être hébergée chez une personne âgée qui organise son maintien à domicile ou souhaite tout simplement faciliter le projet d'un plus jeune.
     
-https://www.facebook.com/lecarillonnantes
+https://www.facebook.com/LaClochePDLL
 
-    Le réseau "Le Carillon" permet d’améliorer les conditions de vie des personnes à la rue et de recréer du lien social avec leurs concitoyens.
+    La Cloche vise à changer le regard porté sur le monde de la rue et encourage le “faire ensemble” entre voisins avec ou sans domicile, pour construire une société plus inclusive.
